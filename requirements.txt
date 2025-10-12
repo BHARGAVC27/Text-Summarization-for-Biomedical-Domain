@@ -1,0 +1,9 @@
+transformers
+datasets
+sumy
+nltk
+evaluate
+rouge-score
+tqdm
+torch
+sentencepiece
