@@ -51,10 +51,7 @@ Both notebooks use ROUGE-1, ROUGE-2, and ROUGE-L metrics to quantitatively asses
 
 - Ensure the runtime environment allows installing all dependencies and has access to download datasets from Hugging Face.
 - Save fine-tuned models promptly to prevent data loss from runtime interruptions.
-
-## Contact and Support
-
-For any questions or issues regarding this project, please contact the project maintainer or Teaching Assistants assigned to this course.
+- **FINE-TUNED MODEL NOT PROVIDED IN THIS REPO**
 
 
 
