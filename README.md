@@ -10,15 +10,14 @@ This repository contains code developed for automating the summarization of biom
 - **abstractive_summarization.ipynb**: Notebook for fine-tuning and evaluating abstractive summarization models such as BioBART, BART, PEGASUS, and T5 on PubMed articles.
 - **extractive_summarization.ipynb**: Notebook implementing extractive summarization algorithms (TextRank, LexRank) with evaluation.
 - **requirements.txt**: Python dependencies required to run the notebooks.
-- **data/** *(optional)*: Folder for storing dataset samples or fine-tuned model checkpoints.
 - **README.md**: Project overview and instructions (this file).
 
 ## Setup Instructions
 
 1. Clone this repository:   
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/BHARGAVC27/Text-Summarization-for-Biomedical-Domain.git
+cd Text-Summarization-for-Biomedical-Domain
 ```
 
 2. Use a Python 3.8+ environment with Jupyter notebooks or Google Colab.
